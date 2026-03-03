@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Share Tech",
+  "previewText": "Share Tech",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-Bold": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-BoldItalic": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-ExtraBold": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-ExtraBoldItalic": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-Medium": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-MediumItalic": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-Normal": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-NormalItalic": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-Semibold": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "ggsans-SemiboldItalic": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "NotoSans-Bold": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "NotoSans-ExtraBold": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "NotoSans-Medium": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "NotoSans-Normal": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "NotoSans-NormalItalic": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "NotoSans-Semibold": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+    "SourceCodePro-Semibold": "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf"
+  }
+}
